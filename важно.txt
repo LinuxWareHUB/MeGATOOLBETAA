@@ -1,0 +1,3 @@
+установи пайтон для начала потом пропиши в cmd
+pip install colorama time random
+готово
